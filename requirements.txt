@@ -1,0 +1,8 @@
+tkinter
+threading
+concurrent.futures
+json
+csv
+xml.etree.ElementTree
+pyinstaller  # Only if you want to create an executable
+pytest  # Only if you want to run tests
